@@ -22,9 +22,9 @@ Now a days the life style of the people is different. People feel uncomfortable 
 ## HOW TO USE 💻
 ## How to run locally 🛠️
 1. Before the following steps make sure you have git, Anaconda or miniconda installed on your system.
-2. Clone the complete project with git clone https://github.com/Dakshinya7/DrCardIO-Heart-stroke-prediction-using-machine-learning-with-front-end.git or you can just download the code and unzip it.
+2. Clone the complete project with git clone https://github.com/Dakshinya7/LessGooo-A-Fashion-E-Commerce-webplatform.git or you can just download the code and unzip it.
 3. Note: The master branch doesn't have the updated code used for deployment, to download the updated code used for deployment you can use the following command
-❯ git clone -b deploy https://github.com/Dakshinya7/DrCardIO-Heart-stroke-prediction-using-machine-learning-with-front-end.git
+❯ git clone -b deploy https://github.com/Dakshinya7/LessGooo-A-Fashion-E-Commerce-webplatform.git
 4. Deploy branch has only the code required for deploying the app (rest of the code that was used for training the models, data preparation can be accessed on master branch)
 5. It is highly recommended to clone the deploy branch for running the project locally (the further steps apply only if you have the deploy branch cloned)
 6. Once the project is cloned, open anaconda prompt in the directory where the project was cloned and paste the following block - 
@@ -44,5 +44,5 @@ Now a days the life style of the people is different. People feel uncomfortable 
 
 https://user-images.githubusercontent.com/111106994/217441376-2551af92-8c13-4de8-9303-908c47ea06c1.mp4
 
-URES
+
 
