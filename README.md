@@ -11,12 +11,12 @@ Now a days the life style of the people is different. People feel uncomfortable 
 
 
 ## DEPLOYMENT 🚀
-  > HTML 💻
-  > CSS 🎨
-  > JavaScript 🖌
-  > Bootstrap 5 🖌
-  > Python 🐍
-  > Django 🖼
+  1. HTML 💻
+  2. CSS 🎨
+  3. JavaScript 🖌
+  4. Bootstrap 5 🖌
+  5. Python 🐍
+  6. Django 🖼
 
 
 ## HOW TO USE 💻
